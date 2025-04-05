@@ -1,0 +1,2 @@
+# mathutil
+go Module example
